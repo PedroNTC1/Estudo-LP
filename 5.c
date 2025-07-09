@@ -10,5 +10,5 @@ int main() {
     }
 
     printf("Soma: %d\n", soma); // Imprime a soma dos elementos do vetor
-    return 0; // Indica que o programa terminou com sucesso
+    return 0; 
 }

@@ -18,5 +18,5 @@ void opera(int x, int y, int (*func)(int, int)) {
 int main() {
     opera(3, 4, soma); // Chama a função 'opera' com a função 'soma'
     opera(3, 4, multiplica); // Chama a função 'opera' com a função 'multiplica'
-    return 0; // Indica que o programa terminou com sucesso
+    return 0; 
 }

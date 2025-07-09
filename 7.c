@@ -7,5 +7,5 @@ int main() {
 
     **pp = 30; // Altera o valor de 'x' indiretamente usando o ponteiro para ponteiro
     printf("Valor de x: %d\n", x); // Imprime o valor atualizado de 'x'
-    return 0; // Indica que o programa terminou com sucesso
+    return 0; 
 }
