@@ -7,10 +7,6 @@ import numpy as np
 import pandas as pd
 import time
 
-# --- Funções dos Algoritmos ---
-# As funções foram mantidas, pois a lógica matemática interna já lida bem
-# com a conversão de tipos de dados. Apenas garantimos que os dados
-# de entrada sejam convertidos para float antes de passá-los para as funções.
 
 def resolver_cramer(A, b):
     """Resolve Ax=b usando a Regra de Cramer."""
